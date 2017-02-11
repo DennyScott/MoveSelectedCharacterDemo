@@ -1,0 +1,6 @@
+typings
+.vscode
+build
+node_modules
+rmmv
+tsconfig.json
